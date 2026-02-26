@@ -9,7 +9,7 @@ const about = {
 
     const viewData = {
       title: "About The Playlist App",
-      employee: stevie.getAppInfo(),
+      employees: stevie.getAppInfo(),
     };
 
     response.render("about", viewData);

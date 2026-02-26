@@ -6,11 +6,10 @@ import JsonStore from './json-store.js';
 const stevie = {
 
   store: new JsonStore('./models/stevie.json', { info: {} }),
-  collection: 'employee',
+  collection: 'employees',
 
 getAppInfo() {
-  const employee = this.store.findAll(this.collection);
-  return employee[0];
+  return this.store.findAll(this.collection);
 },
 
 };
