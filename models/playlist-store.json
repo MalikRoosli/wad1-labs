@@ -45,24 +45,7 @@
     {
       "id": "03",
       "title": "Beethoven Unfinished Symphonies",
-      "songs": [
-        {
-          "id": "98d4a739-188b-40b1-ab14-8ccb4d3cecd5",
-          "title": "Symphony No. 4",
-          "artist": "Beethoven"
-        }
-      ]
-    },
-    {
-      "id": "1c2b7c5d-8193-4db4-88eb-b2672bc2599f",
-      "title": "123",
-      "songs": [
-        {
-          "id": "cfeac580-fdd7-412a-b2bf-03fb954ea021",
-          "title": "123",
-          "artist": "Beethoven"
-        }
-      ]
+      "songs": []
     }
   ]
 }
