@@ -2,6 +2,7 @@
 
 import logger from "../utils/logger.js";
 import stevie from "../models/stevie.js";
+import accounts from './accounts.js';
 
 const about = {
   createView(request, response) {

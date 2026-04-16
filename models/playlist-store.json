@@ -1,71 +1,35 @@
 {
   "playlistCollection": [
     {
-      "id": "01",
-      "title": "Beethoven Sonatas",
-      "rating": 3,
-      "songs": [
-        {
-          "id": "04",
-          "title": "Piano Sonata No. 3",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "05",
-          "title": "Piano Sonata No. 7",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "06",
-          "title": "Piano Sonata No. 10",
-          "artist": "Beethoven"
-        }
-      ]
-    },
-    {
-      "id": "02",
-      "title": "Beethoven Concertos",
+      "id": "45fafa1c-3c16-4720-adbb-d9c893ffb5f6",
+      "title": "Homer's new playlist",
       "rating": 5,
-      "songs": [
-        {
-          "id": "07",
-          "title": "Piano Concerto No. 0",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "08",
-          "title": "Piano Concerto No. 4",
-          "artist": "Beethoven"
-        },
-        {
-          "id": "09",
-          "title": "Piano Concerto No. 6",
-          "artist": "Beethoven"
-        }
-      ]
-    },
-    {
-      "id": "03",
-      "title": "Beethoven Unfinished Symphonies",
-      "rating": 4,
+      "date": "2026-04-16T13:33:18.414Z",
       "songs": []
     },
     {
-      "id": "59f91e90-275b-49c4-a8c9-4feecb781466",
-      "title": "New Playlist",
-      "date": "2026-03-19T14:09:11.730Z",
-      "songs": [
-        {
-          "id": "c777f50e-8df0-4ff7-ade8-21aafa15e265",
-          "title": "123",
-          "artist": "321"
-        },
-        {
-          "id": "99b22da9-cf52-4e31-bfad-768c2477fb45",
-          "title": "1234",
-          "artist": "4321"
-        }
-      ]
+      "userid": "2b6f0989-7b7f-4a38-ad26-aa06b922d751",
+      "id": "de1cb9d6-cca4-446c-93d4-a981196a363e",
+      "title": "Marge's playlist",
+      "rating": 1,
+      "songs": [],
+      "date": "2026-04-16T13:38:44.265Z"
+    },
+    {
+      "userid": "3ad52697-6d98-4d80-8273-084de55a86c0",
+      "id": "462ff804-4d85-45c2-805e-332a6048dacd",
+      "title": "Homer's playlist",
+      "rating": 4,
+      "songs": [],
+      "date": "2026-04-16T13:39:21.488Z"
+    },
+    {
+      "userid": "7b7e71ad-6f79-431f-aea5-d04e9f854e37",
+      "id": "e2c4b116-2635-49f3-87da-6170c971f8e6",
+      "title": "Malik's playlist",
+      "rating": 5,
+      "songs": [],
+      "date": "2026-04-16T13:40:52.817Z"
     }
   ]
 }
