@@ -7,10 +7,12 @@ import accounts from './accounts.js';
 const about = {
   createView(request, response) {
     logger.info("About page loading!");
+    const loggedInUser = accounts.getCurrentUser(request);
 
     const viewData = {
       title: "About The Playlist App",
       employees: stevie.getAppInfo(),
+      picture: loggedInUser.picture,
     };
 
     response.render("about", viewData);

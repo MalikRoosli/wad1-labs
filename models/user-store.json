@@ -27,6 +27,17 @@
       "email": "john@prine.com",
       "password": "secret",
       "id": "2cb848d8-414f-45e0-9673-55cfae53904c"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Smith",
+      "email": "john@smith.com",
+      "password": "123",
+      "id": "82b9376e-1a10-4179-892e-b708d3377390",
+      "picture": {
+        "url": "http://res.cloudinary.com/dzasm8qrh/image/upload/v1776952601/xv7sivoa6lzm744oudjl.jpg",
+        "public_id": "xv7sivoa6lzm744oudjl"
+      }
     }
   ]
 }

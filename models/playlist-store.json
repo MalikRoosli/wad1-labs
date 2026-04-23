@@ -30,6 +30,18 @@
       "rating": 5,
       "songs": [],
       "date": "2026-04-16T13:40:52.817Z"
+    },
+    {
+      "id": "0f4ab0b2-8654-47ab-a6d2-395290277c37",
+      "userid": "82b9376e-1a10-4179-892e-b708d3377390",
+      "title": "John's Playlist",
+      "rating": 4,
+      "songs": [],
+      "date": "2026-04-23T14:02:15.243Z",
+      "picture": {
+        "url": "http://res.cloudinary.com/dzasm8qrh/image/upload/v1776952935/nbc1sjrkbzlsml5hbezl.jpg",
+        "public_id": "nbc1sjrkbzlsml5hbezl"
+      }
     }
   ]
 }
